@@ -125,7 +125,7 @@ commits.forEach(commit => {
 });
 }
 
-function getFileHash(filePath) {
+function getFileHash(filePatteh) {
 const content = fs.readFileSync(filePath);
 return crypto.createHash('sha1').update(content).digest('hex');
 }
