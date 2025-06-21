@@ -1,0 +1,9 @@
+{
+  "message": "test",
+  "timestamp": "2025-04-26T07:08:40.968Z",
+  "files": {
+    "thefile.txt": {
+      "hash": "2cdc27e51ab8224f01ef268e541c93a8740f7b38"
+    }
+  }
+}
